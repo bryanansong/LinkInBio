@@ -17,7 +17,7 @@ export default function Home() {
 	];
 
 	return (
-		<main className="flex min-h-svh flex-col justify-center items-center w-[390px]">
+		<main className="flex min-h-svh mt-5 flex-col justify-start items-center w-[390px]">
 			<div className="w-full flex">
 				<h1 className="flex flex-1 w-full font-ultra text-end text-[32px] pb-8 ml-2">
 					Welcome
